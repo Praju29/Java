@@ -25,7 +25,7 @@ Navigate to the project directory:
 ```bash
 cd Java
 ```
-Open the one.java file and make any desired modifications to the array or code.
+1. Open the one.java file and make any desired modifications to the array or code.
 
 Compile the Java program:
 ```bash
@@ -37,7 +37,7 @@ java one
 ```
 You will see the shuffled array printed in the console.
 
-Open the two.java file and make any desired modifications to the Roman numeral input.
+2. Open the two.java file and make any desired modifications to the Roman numeral input.
 Compile the Java program:
 
 ```bash
@@ -50,7 +50,7 @@ java two
 Enter a Roman numeral in capital letters when prompted.
 The program will output the equivalent integer value.
 
-Open the three.java file and make any desired modifications to the input variable or the code.
+3. Open the three.java file and make any desired modifications to the input variable or the code.
 
 Compile and run the Java program:
 Compile the Java program:
