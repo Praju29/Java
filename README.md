@@ -52,7 +52,6 @@ The program will output the equivalent integer value.
 
 3. Open the three.java file and make any desired modifications to the input variable or the code.
 
-Compile and run the Java program:
 Compile the Java program:
 ```bash
 javac three.java
