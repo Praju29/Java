@@ -62,8 +62,4 @@ java three
 ```
 The program will determine whether the input string is a pangram and print the result.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Replace `"your-username"` in the clone URL with your actual GitHub username, and make sure to have Java installed to compile and run the Java code. You can customize this README file further to provide more information about your project as needed.
 
